@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+.header-section{
+    /* background-color: blueviolet; */
+   
+    display: flex;
+    justify-content: center;
+    height: 80px;
+   background-color: white;
+     left: 0;
+     right: 0;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+}
+.header1{
+    display: flex;
+
+width: 1300px;
+
+}
+.strlogo{
+    height: 45px;
+   
+}
+.logo{
+    height: 80px;
+    display: flex;
+    
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.header-element{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    width: 550px;
+   
+   
+    
+}
+.head-names{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    width: 90px;
+    
+}
+.account_thin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+   
+    
+}
+.searchbox{
+    margin-left: 280px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar{
+    width: 280px;
+    height: 35px;
+    border-radius: 50px;
+}
+.sign-messege{
+    background-color: aquamarine;
+}

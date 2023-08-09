@@ -1,0 +1,440 @@
+.title-bar{
+    background-color:rgb(30, 57, 50)
+    ;
+    width: 100%;
+    height: 80px;
+    margin-top: 80px;
+    
+   
+}
+.text{
+    color: black;
+}
+.title-bar2{
+    height: 80px;
+    width: 87% ;
+    display: flex;
+     margin-left: auto;
+     margin-right: auto;
+     
+     /* margin-top: 50px; */
+     
+     
+}
+.text{
+    color: white;
+   font-weight: normal;
+   font-size: medium;
+    /* font-family: SoDoSans_Light,Helvetica,sans-serif!important; */
+      
+}
+.title-left{ 
+    
+   
+    margin-top: auto;
+    margin-bottom: auto;
+    /* font-size: 20px; */
+    /* padding-left: 25px; */
+    /* margin-left: 119px; */
+    /* height: 80px; */
+    /* margin-top: 50px; */
+}
+.title-bar2{
+
+}
+.button{
+   
+    margin-left: 790px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+.greenbutton{
+    height: 30px;
+    width: 108px;
+    border-radius: 25px;
+}
+.Handcrafted{
+    font-weight: bolder;
+    font-size: 25px;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    font-family: SoDoSans_Light,Helvetica,sans-serif!important;
+    
+    padding-top: 30px;
+}
+.image{
+    height: 108px;
+    width: 108px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid #edebe9;
+    cursor: pointer;
+}
+.items{
+    display: flex;
+    
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+.name{
+    text-align: center;
+    font-size: 14px;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    margin-top: 5px;
+    margin-bottom: 1.5rem;
+    width: 108px;
+    font-weight: bolder;
+
+}
+.items2{
+    display: flex;
+    background-color: #166443 ;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    margin-top: 73px;
+    border-radius: 10px;
+}
+.items2:hover{
+    cursor: pointer;
+}
+.cup{
+    width: 100px;
+    margin-top: 1em;
+}
+.essentials{
+    padding-top: 1.5em;
+    width: 60%;
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    margin-left: 47px;
+}
+.p1{
+    font-weight: 400px;
+    font-size: 14px;
+    color: white;
+}
+.p2{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 0;
+    color: white;
+    margin-top: 18px;
+}
+
+.p3{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-top:18px;
+}
+.p4{
+    font-family: SoDoSans_Light,Helvetica,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: white;
+    margin-top:37px ;
+}
+.p5{
+    font-weight: 600;
+    color: white;
+    margin-top: 5px;
+}
+.oderbutton{
+    margin-left: 164px;
+    margin-top: 148px;
+    
+}
+.buttonorder{
+    height: 50px;
+    width:200px;
+    border-radius: 50px;
+}
+.buttonorder:hover{
+    background-color:rgb(238, 210, 210);
+}
+.Latest{
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    font-family: SoDoSans_Bold,Helvetica,sans-serif;
+    color: #1e3932;
+    margin-top: 50px;
+    height: 60px;
+    font-weight: 600;
+    
+}          
+.new-launch{
+    height: 360px;
+    display: flex;
+    justify-content: space-between;
+   
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.launch-img{
+    width: 409.333px;
+    margin-right: 26px;
+    height: 167px
+}
+.launch{
+    height: 360px;
+  background-color: #E6EDEB;
+    width: 409.333px;
+    border-radius: 10px;
+}
+.launch:hover{
+    cursor: pointer;
+}
+.l4{
+display: flex;
+width: 87%;
+margin-left: auto;
+margin-right: auto;
+margin-top: -12px;
+}
+.greenlaunch{
+    /* display: flex; */
+    background-color: #e6edeb;
+    color: green;
+border-radius: 40px;
+padding-left: 5px;
+height: 20px;
+width: 70px;
+}
+/* .paragraph{
+    font-size: px;
+    margin-bottom: px;
+} */
+/* .h6{
+    margin-bottom:0px;
+} */
+.h5{
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -48px;
+    font-size: 19px;
+    color: #1e3932;
+}
+.short{
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+    font-stretch: 70px;
+    margin-top: -10px;
+
+}
+.Mocha{
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13px;
+    margin-top: -5px;
+    font-weight: lighter;
+
+}
+.pricce-button{
+    display: flex;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px
+    
+}
+.priceint{
+    font-weight: bold;
+    font-size: 16px;
+    width: px;
+    height: 50px;
+    /* background-color: #166443; */
+}
+/* .buttondiv{
+    margin-left:px;
+} */
+.buttonad{
+    margin-left: 190px;
+    height: 29px;
+    width: 100px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #00754a;
+    border: none;
+}
+.Barista{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+.bari{
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+    color: #1e3932;
+    font-weight: 53 px;
+    font-size: 31px;
+    
+}
+.Barista-Recommends{
+    width: 100%;
+    background: #edebe9;
+    height: 328px;
+    margin-top: 80px;
+}
+.barista-view{
+    color: #166443;
+   padding-top: 30px;
+}
+.barista-item{
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 160px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.barista-item1{
+    width: 409.333px;
+background-color: white;
+height: 160px;
+border-radius: 10px;
+
+}
+.barista-item1:hover{
+    cursor: pointer;
+}
+.brimage{
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.inimg1{
+    margin-left: 20px;
+    padding-top: 15px ;
+}
+.inbar{
+    display: flex;
+}
+.qinfo1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.qinfo2{
+    font-weight: bold;
+    margin-left: 20px;
+}
+.qinfo3{
+    font-size: 9px;
+    font-family: Pike_Regular,Helvetica,sans-serif!important;
+    color: #6c757d!important;
+    margin-top: 11px;
+    margin-left: 20px;
+   font-stretch: extra-condensed;
+}
+.v1{
+    display: flex;
+}
+.vprice{
+ margin-left: 20px;
+ margin-top: 15px;
+ font-weight: bold;
+}
+.buttonv{
+    height: 29px;
+    width: 100px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #00754a;
+    border: none;
+    margin-left: 210px;
+    margin-top: 15px;
+}
+.buttonv:hover{
+    background-color: #166443;
+}
+.coffee{
+    width: 100%;
+    height: 494px;
+    background-color: #edebe9;
+    margin-top: 40px;
+}
+.H{
+    display: flex;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.Hleft{
+    font-size: 20px;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+    color: #1e3932;
+}
+.Hright{
+    font-weight: 400;
+    line-height: 1.2;
+    margin-left: 600px;
+    padding-left: 70px;
+    margin-top: 30px;
+    color: rgb(2, 101, 68);
+    
+}
+.imgcoffee{
+    display: flex;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 372px;
+    background-image: url("images/Coffeculture_Blog_Web_Banner_2_X_8b72db6546.jpg");
+    position: relative;
+    border-radius: 10px;
+    
+    
+}
+.coffeeculture{
+   
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 9px;
+    
+}
+.story{
+    font-size: 27px;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 25px;
+   
+    height: 40px;
+}
+.story2{
+ color: white;
+ /* background-color: blue; */
+ height: 40px;
+ margin-top: 10px;
+ margin-left: 25px;
+ 
+}
+.learnbutton{
+    width: 200px;
+    height: 32px;
+    padding: 0;
+    border-radius: 16px;
+}
+.s1{
+    margin-left: 19px;
+}

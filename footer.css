@@ -1,0 +1,59 @@
+.footer{
+    height: 530px;
+    background-color: rgb(2, 74, 50);
+   
+}
+.subfooter{
+    display: flex;
+     
+    width: 90%;
+    /* margin-left: 90px; */
+    margin-left: 79px;
+    margin-top: 50px;
+    
+    margin-bottom: auto;
+    /* background-color: pink; */
+    height: 425px;
+    justify-content: space-around;
+    border-bottom: 1px solid #fff;
+    
+   
+    
+}
+.foot1{
+    width: 200px;
+    height: 340px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.foot1:hover{
+    cursor: pointer;
+}
+.coffee-house{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    list-style: none;
+}
+.coffee-house span{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sicons{
+    display: flex;
+}
+.footer2{
+    /* background-color: yellow; */
+    height: 30px;
+    display: flex;
+    color: #fff;
+}
+.ft4{
+    font-size: 10px;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.ft3{
+    margin-left: 80px;
+    margin-top: 20px;
+}
